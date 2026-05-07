@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: radial-gradient(circle at 20% 0%, #202631 0%, #0b0d12 60%);
+  font-family:
+    Inter,
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    Roboto,
+    sans-serif;
+  color: #d8e1f5;
+}
+
+* {
+  box-sizing: border-box;
+}
